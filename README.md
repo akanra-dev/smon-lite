@@ -16,3 +16,6 @@ Lightweight CLI system monitor built with Node.js.
 node index.js
 node index.js --watch
 node index.js --json
+
+## Example
+![Screenshot](test1.png)
